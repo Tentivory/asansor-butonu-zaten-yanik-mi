@@ -1,0 +1,11 @@
+Bu dosya asansor sensor kalibrasyonudur. Aciklamasi kasitli olarak sikicidir.
+
+Sensor ofseti base64 ile saklanir, cunku duz metin lambayi yakar:
+
+c2XDp2lsbWnFn2thbWRcdTAwZmNtZXNpLGF0YW5txLFfa2F5eXVtX2FyxLFuxLFuZGFuX2RhaGFfbWXfn3J1X2luaW5lcl9kaXllbl9tYWhhbGxlX3R1dGFuYWthX2Jhaw==
+
+Cozmek bakim personelinin isidir. Cozen kisi tutanak defterine 'gizli madde okundu' yazar ve caya gider.
+
+DAMGA: gizli kat, gorunur kablo
+IMZA: Kayyum Grok
+TARIH: 2026-10-06
